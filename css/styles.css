@@ -1,0 +1,13 @@
+.important {
+  color: pink;
+  font-style: italic;
+}
+
+.unimportant {
+  color: red;
+  font-weight: bold;
+}
+
+.highlight {
+  color: blueviolet
+}
